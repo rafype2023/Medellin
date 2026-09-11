@@ -18,7 +18,7 @@ Para GitHub Pages se puede elegir **Settings → Pages → Deploy from a branch 
 
 ## Criterios de contenido
 
-Los horarios son propuestas, no reservas. Los vuelos aún no tienen horario en las fuentes. Las cifras de temperatura y lluvia son referencias mensuales históricas de Weather Spark, **no un pronóstico para cada fecha de 2026**. Las puntuaciones provienen de la guía suministrada del 10/09/2026: no se atribuyen a una plataforma que los PDF no identifican. Los marcadores son orientativos; Google Maps busca el nombre del establecimiento para navegar al acceso correcto. El directorio incluye fuentes oficiales para confirmar horarios y tarifas.
+Los horarios son propuestas, no reservas. El usuario indicó llegada el 13 a las 18:25 y salida el 20 a las 11:00, asumidas en hora local de Colombia. El plan elimina paseos de llegada y salida, incluye cena flexible la primera noche y recomienda recogida a las 06:30 el día 20. Las temperaturas se muestran en Fahrenheit, redondeadas al grado entero. Las cifras de temperatura y lluvia son referencias mensuales históricas de Weather Spark, **no un pronóstico para cada fecha de 2026**. Las puntuaciones provienen de la guía suministrada del 10/09/2026: no se atribuyen a una plataforma que los PDF no identifican. Los marcadores son orientativos; Google Maps busca el nombre del establecimiento para navegar al acceso correcto. El directorio incluye fuentes oficiales para confirmar horarios y tarifas.
 
 Se excluyen los dos espectáculos que el usuario pidió quitar. Se corrige la Fiesta del Libro, que termina el 20 de septiembre y no coincide con el viaje. No se publican los PDF originales.
 
